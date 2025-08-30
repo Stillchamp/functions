@@ -37,7 +37,7 @@ check_aws_cli
 check_aws_profile
 
 
-#credentials files
+# credentials files
 [default]
 aws_access_key_id = YOUR_ACCESS_KEY_ID
 aws_secret_access_key = YOUR_SECRET_ACCESS_KEY
